@@ -42,6 +42,12 @@ To use the DeepL API, follow these steps:
 2. Create an account by signing up with your details. You will need to provide a valid credit card for registration. **Note**: You will not be charged unless you change your plan.
 3. Once logged in, obtain your API key from the account settings and save it for use with the extension.
 
+## Step 1: Modify the source code to use your API KEY
+
+1. Open the folder that you have cloned.
+2. Modify the file service.js
+3. Change the line 8: `const API_KEY = ":)";`
+4. The variable should look like: `const API_KEY = "DeepL-Auth-Key YOUR_API_KEY_GOES_HERE";`
 
 ## Step 2: Load the extension in Chrome
 
