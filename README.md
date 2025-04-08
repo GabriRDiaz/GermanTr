@@ -29,7 +29,7 @@ The **Text Translator** Chrome extension allows users to quickly translate selec
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/text-translator-chrome-extension.git
+git clone https://github.com/GabriRDiaz/GermanTr.git
 ```
 
 ### ❗❗ You will need an API KEY in order to use the extension.
