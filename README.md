@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Text Translator** Chrome extension allows users to quickly translate selected text and view the translation in a small popup box. With support for multiple languages, this extension helps you instantly translate any piece of text on the web.
+The **Text Translator** Browser extension allows users to quickly translate selected text and view the translation in a small popup box. With support for multiple languages, this extension helps you instantly translate any piece of text on the web.
 
 ### Features:
 - **Context Menu**: Right-click on any selected text to quickly translate it.
