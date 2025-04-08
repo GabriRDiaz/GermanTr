@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Translation</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      width: 300px;
+      padding: 10px;
+    }
+    h2, h3 {
+      margin: 0;
+    }
+    hr {
+      margin: 10px 0;
+    }
+    .section {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+    .header-container {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .header-container h2 {
+      margin-left: 10px;
+    }
+    .language-section {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+    }
+    .language-section img {
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header-container">
+    <img id="languageImage" src="" alt="Language icon">
+    <h2 id="languageHeader"></h2>
+  </div>
+  
+  <hr />
+  
+  <div class="section" id="translatedText"></div>
+  
+  <hr />
+  
+  <div class="language-section">
+    <img src="/images/icon-16.png" alt="German Flag">
+    <h3>German:</h3>
+  </div>
+  
+  <hr />
+  
+  <div class="section" id="originalText"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
