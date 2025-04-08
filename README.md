@@ -1,4 +1,4 @@
-# ** 🇩🇪 German Translator Chrome Extension to 🇬🇧 English and 🇪🇸 Spanish**
+# **🇩🇪 German Translator Chrome Extension to 🇬🇧 English and 🇪🇸 Spanish**
 
 ## Overview
 
@@ -14,7 +14,7 @@ The **Text Translator** Chrome extension allows users to quickly translate selec
 
 ### Example Images
 
-![Image 1](![image](https://github.com/user-attachments/assets/70bc2e0d-8532-4cda-870a-fb694c1211bc))
+![image](https://github.com/user-attachments/assets/70bc2e0d-8532-4cda-870a-fb694c1211bc)
 *Language Selection*
 
 ![Image 2](![image](https://github.com/user-attachments/assets/20f4f515-48de-4d02-aee8-f11c21d63429))
@@ -28,7 +28,11 @@ The **Text Translator** Chrome extension allows users to quickly translate selec
 
 ## Installation
 
-❗❗ You will need an API KEY in order to use the extension.
+```bash
+git clone https://github.com/yourusername/text-translator-chrome-extension.git
+```
+
+### ❗❗ You will need an API KEY in order to use the extension.
 
 ### Obtain API Key from DeepL
 
@@ -38,9 +42,6 @@ To use the DeepL API, follow these steps:
 2. Create an account by signing up with your details. You will need to provide a valid credit card for registration. **Note**: You will not be charged unless you change your plan.
 3. Once logged in, obtain your API key from the account settings and save it for use with the extension.
 
-```bash
-git clone https://github.com/yourusername/text-translator-chrome-extension.git
-```
 
 ## Step 2: Load the extension in Chrome
 
