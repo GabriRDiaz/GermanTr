@@ -17,13 +17,13 @@ The **Text Translator** Chrome extension allows users to quickly translate selec
 ![image](https://github.com/user-attachments/assets/70bc2e0d-8532-4cda-870a-fb694c1211bc)
 *Language Selection*
 
-![Image 2](![image](https://github.com/user-attachments/assets/20f4f515-48de-4d02-aee8-f11c21d63429))
+![image](https://github.com/user-attachments/assets/20f4f515-48de-4d02-aee8-f11c21d63429)
 *Translate Button*
 
-![Image 3](![image](https://github.com/user-attachments/assets/79e9b1f4-93d0-4cb8-9587-61fa14e25938))
+![image](https://github.com/user-attachments/assets/79e9b1f4-93d0-4cb8-9587-61fa14e25938)
 *English Translation*
 
-![Image 4](![image](https://github.com/user-attachments/assets/9fde26ab-d882-449d-8ad0-1d5451d98b8d))
+![image](https://github.com/user-attachments/assets/9fde26ab-d882-449d-8ad0-1d5451d98b8d)
 *Spanish Translation*
 
 ## Installation
@@ -79,6 +79,14 @@ The popup will display the following:
 - **Manifest V3**: The extension is built using Chrome's Manifest V3.
 - **JavaScript**: Handles the logic for translating text and interacting with the DOM.
 - **Chrome Extensions API**: Used for creating the context menu, handling background tasks, and injecting content scripts.
+
+## Supported Browsers
+
+The **GermanTr Extension** was tested on the following browsers:
+- Google Chrome
+- OperaGX
+
+Nevertheless, I am pretty sure that it should work with other browsers.
 
 ## Contributing
 
