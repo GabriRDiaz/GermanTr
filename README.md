@@ -1,4 +1,4 @@
-# **🇩🇪 German Translator Chrome Extension to 🇬🇧 English and 🇪🇸 Spanish**
+# **🇩🇪 German Translator Browser Extension to 🇬🇧 English and 🇪🇸 Spanish**
 
 ## Overview
 
